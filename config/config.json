@@ -1,0 +1,24 @@
+{
+	"darksky" :	{
+					"url": "https://api.darksky.net/forecast/",
+					"APIKey": "",
+					"timeout": 1000
+				},
+	
+	"mongodb" :	{
+					"uname" : "test",
+					"pwd" : "test"
+				},
+				
+	"geocodingGoogle" : {
+							"urlGoogle" : "https://maps.googleapis.com/maps/api/geocode",
+							"formatGoogle" : "/json",
+							"apiKey" : ""
+						},
+	"flickr" : {
+		 
+		"api_key" : "",
+		"secret" : ""
+		
+	}
+}
